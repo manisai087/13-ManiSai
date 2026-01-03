@@ -5,7 +5,7 @@ financial performance changes across periods, highlights key trends and risks, a
 disclosures with proper citations, producing a reliable first-draft document that is accurate, explainable, and suitable for human review.
 ## What Our Project Does:
 
-Our project reads *SEC financial statement data, analyzes the numbers, and **automatically generates an MD&A draft* in simple professional language.
+Our project reads SEC financial statement data, analyzes the numbers, and automatically generates an MD&A draft in simple professional language.
 
 The system:
 
@@ -38,13 +38,8 @@ This is meant to be a *first draft*, not a final report.
 
 ## Project Structure
 
+<img width="510" height="166" alt="image" src="https://github.com/user-attachments/assets/1bc1e7b5-ae02-405a-b0c8-8e43458c9652" />
 
-mdna_hackathon/
-├── main.py              # Main script to run the project
-├── num.txt              # SEC financial dataset file
-├── requirements.txt     # Required Python libraries
-├── output_mdna.md       # Generated MD&A output
-└── README.md            # Project documentation
 
 ## How to Run the Project (VS Code)
 
@@ -66,7 +61,7 @@ mdna_hackathon/
 
 ## Output
 
-The output is a *generated MD&A draft* that explains:
+The output is a generated MD&A draft that explains:
 
 * Revenue trends
 * Growth patterns
